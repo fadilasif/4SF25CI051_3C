@@ -1,6 +1,19 @@
 # Fadil Asif Iqbal
 ### 4SF25CI051 - 3C
 
+## Dataset Instructions
+
+The dataset is provided as a ZIP file because the original CSV exceeds GitHub's recommended upload size.
+
+Before running the Jupyter Notebook:
+
+1. Download `zomato.csv.zip` from this repository.
+2. Extract the ZIP file.
+3. Place the extracted `zomato.csv` in the same directory as the Jupyter Notebook.
+4. Run all notebook cells.
+
+**Note:** The notebook reads the extracted CSV file, not the ZIP file.
+
 # Zomato Data Analysis
 
 ## Overview
